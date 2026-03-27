@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/admin"
+    },
+    {
+      "path": "./packages/shadcn"
+    },
+    {
+      "path": "./apps/client"
+    },
+    {
+      "path": "./packages/shared-components"
+    }
+  ]
+}
