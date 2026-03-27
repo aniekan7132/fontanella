@@ -33,7 +33,7 @@
   "include": ["src/**/*.js", "src/**/*.jsx", "src/**/*.ts", "src/**/*.tsx"],
   "references": [
     {
-      "path": "../../packages/shadcn/tsconfig.lib.json"
+      "path": "../../packages/shared-components/tsconfig.lib.json"
     }
   ]
 }
